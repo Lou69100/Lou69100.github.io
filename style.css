@@ -55,7 +55,7 @@ h2 {
     flex-flow: row nowrap;
   }
   .column{
-    width-max: auto;
+    max-width: auto;
     border-radius: 20px;
     background-color:#8f4f4f;
     text-align:center;
